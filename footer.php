@@ -13,8 +13,9 @@
 		<nav role="navigation" class="navigation site-navigation secondary-navigation">
 			<?php wp_nav_menu( array( 'theme_location' => 'secondary' ) ); ?>
 
-			<p id="copyright">&copy; <?php echo site_url();  ?>
-			<?php echo date("Y")." "; ?><br>
+			<p id="copyright">&copy; <?php echo date("Y")." "; ?>
+				<?php bloginfo();  ?>
+			<br>
 			<a href="mailto:hello@megzencoding.com?subject=Hello"><span>Built by Meg Miller </span></a>- All Rights Reserved.
 			</p>
 
