@@ -13,7 +13,7 @@
 		<nav role="navigation" class="navigation site-navigation secondary-navigation">
 			<?php wp_nav_menu( array( 'theme_location' => 'secondary' ) ); ?>
 
-			<p id="copyright">&copy; <?php bloginfo(‘name’);  ?>
+			<p id="copyright">&copy; <?php echo site_url();  ?>
 			<?php echo date("Y")." "; ?><br>
 			<a href="mailto:hello@megzencoding.com?subject=Hello"><span>Built by Meg Miller </span></a>- All Rights Reserved.
 			</p>
