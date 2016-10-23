@@ -751,7 +751,7 @@ div.policy-other .page-header .main-content {
 	/* HOMEPAGE (DESKTOP)******************************************* */
 
 	.home {
-		background: url(img/hookipa-bird.jpg) no-repeat center 0;
+		background: url(img/computer-desk.jpeg) no-repeat center 0;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
@@ -764,7 +764,7 @@ div.policy-other .page-header .main-content {
 		background: #ffffff;
 		float: right;
 		padding: 1% 2%;
-		opacity:.7;
+		opacity:.8;
 		border-radius:5px;
 	}
 	.home .page-header {
