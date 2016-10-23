@@ -14,8 +14,8 @@
 
 	</div>
 	<div id="tablet-sidebar">
-			<a id="opt-in" class="btn" href="https://rc308.isrefer.com/go/pmih/PMIH1031/kathleencbradilla.com" target="_blank" >Get More Info</a>
-		</div>
+		<!--	<a id="opt-in" class="btn" href="http://megmillerhilo.com/answers" target="_blank" >Get More Info</a>
+		</div>  Hiding sidebar button as a test -->
 </div><!-- #primary-sidebar -->
 
 	<?php endif; ?>
